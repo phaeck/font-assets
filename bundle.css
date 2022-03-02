@@ -1,0 +1,59 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+@font-face {
+	font-family: 'notdef';
+	src: url(8df12903fccd678566ee.woff2) format('woff2');
+}
+
+.font-variant.svelte-1t37z74{padding:8px}.font-variant.svelte-1t37z74:hover,.selected.svelte-1t37z74{cursor:pointer;color:#49a195;outline:1px solid #49a195}.selected.svelte-1t37z74{text-decoration:underline}
+.preview-item.svelte-1d361pw{border-bottom:1px solid #000;margin-bottom:8px}.preview-item-title.svelte-1d361pw{font-size:16px}.preview-item-phrase.svelte-1d361pw{font-size:20px;padding:8px 0}
+.no-selected-variants.svelte-ssaoxx{font-size:24px}
+main.svelte-pcq62c{display:flex;max-width:1024px;margin:0 auto;padding:32px 8px}.font-variant-list.svelte-pcq62c{width:calc(33% - 8px);margin-right:8px}.preview-container.svelte-pcq62c{width:67%}.preview-input.svelte-pcq62c{font-size:28px;width:100%;height:60px;border:1px solid lightsalmon;border-radius:8px;padding:0 8px;box-sizing:border-box;margin-bottom:16px}.preview-input.svelte-pcq62c:hover{border:1px solid #49a195}
